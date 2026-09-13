@@ -1,0 +1,36 @@
+name: connect_call
+description: "ConnectCall - 1-to-1 audio/video calling app (Flutter Intern assignment)."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # State management
+  provider: ^6.1.5
+
+  # Firebase (Auth + Firestore)
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.6.12
+
+  # Calling (ZEGOCLOUD prebuilt UI Kit + invitation service)
+  zego_uikit: ^2.29.2
+  zego_uikit_prebuilt_call: ^4.24.4
+  zego_uikit_signaling_plugin: ^2.8.21
+
+  # Permissions
+  permission_handler: ^12.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
