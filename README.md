@@ -93,4 +93,14 @@ Firestore rules note: test-mode rules (allow read/write when authenticated) are 
 ## AI disclosure
 
 AI tools (Claude, via Muse Spark) were used in development.
+
+## Demo
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-13 at 9 09 04 PM" src="https://github.com/user-attachments/assets/29b908cf-3eab-4dd9-9d9a-41bea06d188e" />
+<img width="1080" height="2400" alt="WhatsApp Image 2026-09-13 at 9 09 03 PM" src="https://github.com/user-attachments/assets/90fd3049-e787-43c0-a6ff-c4cff853b291" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-09-13 at 9 09 03  1" src="https://github.com/user-attachments/assets/13f0e461-4d9d-4cb0-82a7-1cace5380d50" />
+<img width="746" height="1600" alt="WhatsApp Image 2026-09-13 at 9 02 20 PM" src="https://github.com/user-attachments/assets/6a6aeb1d-e12c-4c83-844d-cf9f59403d10" />
+
+## APK Link
+https://github.com/Vineetagrawal2005/Connect_Call/releases/tag/v1.0.0
+
 #
